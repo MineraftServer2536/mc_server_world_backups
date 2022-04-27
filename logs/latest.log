@@ -41,3 +41,26 @@
 [13:10:28] [Server thread/INFO]: NatsuhiLight[/118.169.93.51:31922] logged in with entity id 34 at (-357.3995011580315, -47.0, 428.16295988739296)
 [13:10:28] [Server thread/INFO]: NatsuhiLight joined the game
 [13:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[15:43:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@11f8c359[id=<null>,name=Lien116,properties={},legacy=false] (/114.36.179.170:4487) lost connection: Disconnected
+[15:43:44] [User Authenticator #2/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[15:43:44] [Server thread/INFO]: Lien116[/114.36.179.170:4503] logged in with entity id 26579 at (-261.5, 70.0, -10.5)
+[15:43:44] [Server thread/INFO]: Lien116 joined the game
+[15:46:12] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[15:46:12] [Server thread/INFO]: Lien116 left the game
+[15:47:44] [User Authenticator #3/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[15:47:44] [Server thread/INFO]: Lien116[/114.36.179.170:11073] logged in with entity id 27729 at (-323.30000001192093, 66.0, 86.30000001192093)
+[15:47:44] [Server thread/INFO]: Lien116 joined the game
+[15:47:50] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[15:47:50] [Server thread/INFO]: Lien116 left the game
+[15:50:29] [User Authenticator #4/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[15:50:29] [Server thread/INFO]: Lien116[/114.36.179.170:11101] logged in with entity id 28217 at (-323.30000001192093, 66.0, 86.30000001192093)
+[15:50:29] [Server thread/INFO]: Lien116 joined the game
+[15:52:29] [Server thread/INFO]: Lien116 has made the advancement [Stone Age]
+[15:53:04] [Server thread/INFO]: Lien116 has made the advancement [Getting an Upgrade]
+[15:54:40] [Server thread/INFO]: Lien116 has made the advancement [A Seedy Place]
+[15:56:57] [Server thread/INFO]: NatsuhiLight has made the advancement [Cover Me with Diamonds]
+[16:02:26] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[16:02:26] [Server thread/INFO]: Lien116 left the game
+[16:07:27] [User Authenticator #5/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[16:07:27] [Server thread/INFO]: piesOf314[/160.39.5.167:53842] logged in with entity id 32190 at (-282.0268222002009, 74.0, -9.228817583415108)
+[16:07:27] [Server thread/INFO]: piesOf314 joined the game
