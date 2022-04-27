@@ -65,3 +65,6 @@
 [16:07:27] [Server thread/INFO]: piesOf314[/160.39.5.167:53842] logged in with entity id 32190 at (-282.0268222002009, 74.0, -9.228817583415108)
 [16:07:27] [Server thread/INFO]: piesOf314 joined the game
 [16:15:01] [Server thread/INFO]: piesOf314 has made the advancement [Sweet Dreams]
+[16:33:40] [Server thread/INFO]: piesOf314 has made the advancement [Acquire Hardware]
+[16:40:33] [Server thread/INFO]: piesOf314 was blown up by Creeper
+[16:43:27] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-606, y=61, z=252} gj{x=-606, y=60, z=252}
