@@ -242,6 +242,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-04-27 16:14:14 +0000",
+      "bread": "2022-04-27 17:42:47 +0000",
       "melon_slice": "2022-04-27 16:10:24 +0000",
       "cooked_chicken": "2022-04-27 16:34:37 +0000",
       "cooked_salmon": "2022-04-27 16:46:02 +0000"
@@ -455,6 +456,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-04-26 16:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-04-27 16:57:02 +0000"
     },
     "done": true
   },
@@ -1079,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-04-27 16:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-04-26 03:57:21 +0000"
@@ -1320,6 +1333,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-27 16:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-04-27 17:11:25 +0000"
     },
     "done": true
   },

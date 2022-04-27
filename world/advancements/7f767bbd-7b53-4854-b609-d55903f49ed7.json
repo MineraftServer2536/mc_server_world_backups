@@ -626,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2022-04-27 17:07:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-04-27 10:05:14 +0000"
@@ -770,6 +776,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-04-27 17:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-04-27 10:03:45 +0000"
@@ -902,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-04-27 17:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-27 10:35:59 +0000"
@@ -1009,6 +1027,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-27 10:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-04-27 17:18:38 +0000"
     },
     "done": true
   },
@@ -1261,6 +1285,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-04-27 16:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-04-27 17:31:20 +0000"
     },
     "done": true
   },
@@ -1750,7 +1780,8 @@
       "minecraft:lukewarm_ocean": "2022-04-27 10:34:07 +0000",
       "minecraft:river": "2022-04-27 09:51:08 +0000",
       "minecraft:forest": "2022-04-27 10:57:49 +0000",
-      "minecraft:savanna": "2022-04-26 16:58:02 +0000"
+      "minecraft:savanna": "2022-04-26 16:58:02 +0000",
+      "minecraft:plains": "2022-04-27 16:58:24 +0000"
     },
     "done": false
   },
@@ -1922,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-04-27 17:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-04-26 17:13:24 +0000"
@@ -1955,6 +1992,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2022-04-27 10:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-04-27 17:07:20 +0000"
     },
     "done": true
   },
