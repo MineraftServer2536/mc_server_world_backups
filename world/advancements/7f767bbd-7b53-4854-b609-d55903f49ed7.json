@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-04-28 02:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-27 10:46:19 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-04-28 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-04-26 17:08:02 +0000"
@@ -182,6 +194,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-04-27 16:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2022-04-28 01:37:27 +0000"
     },
     "done": true
   },
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-04-28 01:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-04-26 17:08:02 +0000"
@@ -332,6 +356,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-04-27 10:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-04-28 00:51:36 +0000"
     },
     "done": true
   },
@@ -388,6 +418,7 @@
       "cooked_porkchop": "2022-04-27 12:09:30 +0000",
       "cooked_mutton": "2022-04-27 12:32:10 +0000",
       "cooked_beef": "2022-04-27 14:28:25 +0000",
+      "spider_eye": "2022-04-28 02:32:17 +0000",
       "mutton": "2022-04-26 17:13:32 +0000",
       "bread": "2022-04-27 10:00:40 +0000",
       "rotten_flesh": "2022-04-26 16:59:16 +0000",
@@ -587,6 +618,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2022-04-27 16:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-04-28 02:18:02 +0000"
     },
     "done": true
   },
@@ -992,11 +1029,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2022-04-28 01:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-04-27 11:38:41 +0000",
       "minecraft:spider": "2022-04-27 11:58:27 +0000",
-      "minecraft:zombie": "2022-04-27 10:24:35 +0000"
+      "minecraft:zombie": "2022-04-27 10:24:35 +0000",
+      "minecraft:drowned": "2022-04-28 01:37:22 +0000"
     },
     "done": false
   },
@@ -1354,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2022-04-28 02:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-04-27 11:01:53 +0000"
@@ -1492,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-04-28 02:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-04-27 16:16:40 +0000"
@@ -1585,6 +1641,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-04-27 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-04-28 02:17:49 +0000"
     },
     "done": true
   },
@@ -1780,6 +1842,7 @@
       "minecraft:lukewarm_ocean": "2022-04-27 10:34:07 +0000",
       "minecraft:river": "2022-04-27 09:51:08 +0000",
       "minecraft:forest": "2022-04-27 10:57:49 +0000",
+      "minecraft:jungle": "2022-04-28 02:42:29 +0000",
       "minecraft:savanna": "2022-04-26 16:58:02 +0000",
       "minecraft:plains": "2022-04-27 16:58:24 +0000"
     },
@@ -1800,6 +1863,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-27 10:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-04-28 02:17:49 +0000"
     },
     "done": true
   },
@@ -1956,6 +2025,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-04-27 17:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-04-28 02:43:40 +0000"
     },
     "done": true
   },
@@ -2154,6 +2229,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-27 10:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-04-28 01:57:04 +0000"
     },
     "done": true
   },
