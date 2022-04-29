@@ -284,7 +284,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2022-04-29 14:24:18 +0000",
-      "melon_slice": "2022-04-27 15:54:00 +0000"
+      "melon_slice": "2022-04-27 15:54:00 +0000",
+      "cooked_chicken": "2022-04-29 16:08:54 +0000"
     },
     "done": false
   },
@@ -378,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-04-27 15:59:02 +0000"
@@ -399,6 +406,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
     },
     "done": true
   },
@@ -498,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2022-04-27 15:52:04 +0000"
@@ -561,6 +580,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-04-29 14:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
     },
     "done": true
   },
@@ -666,6 +691,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-04-29 14:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
     },
     "done": true
   },
@@ -819,9 +850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-04-27 15:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-04-29 16:25:02 +0000"
     },
     "done": true
   },
@@ -839,7 +882,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2022-04-29 16:04:01 +0000"
+      "minecraft:zombie": "2022-04-29 16:04:01 +0000",
+      "minecraft:drowned": "2022-04-29 16:33:01 +0000"
     },
     "done": false
   },
@@ -861,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-29 14:25:10 +0000"
@@ -870,6 +920,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-04-29 14:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-04-29 16:35:51 +0000"
     },
     "done": true
   },
