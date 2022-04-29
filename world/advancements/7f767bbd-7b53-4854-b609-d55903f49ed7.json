@@ -665,6 +665,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2022-04-29 14:36:04 +0000",
       "minecraft:chicken": "2022-04-27 17:07:20 +0000"
     },
     "done": false
@@ -888,6 +889,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2022-04-27 09:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-04-29 14:21:39 +0000"
     },
     "done": true
   },
@@ -1731,6 +1738,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-04-27 10:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-04-29 14:21:39 +0000"
     },
     "done": true
   },
