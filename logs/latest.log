@@ -229,3 +229,46 @@
 [08:47:10] [User Authenticator #35/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
 [08:47:10] [Server thread/INFO]: Lien116[/114.36.192.56:12347] logged in with entity id 41902 at (-408.69999998807907, 15.0, 348.95661525821566)
 [08:47:10] [Server thread/INFO]: Lien116 joined the game
+[09:19:00] [Server thread/INFO]: hunto3for lost connection: Timed out
+[09:19:00] [Server thread/INFO]: hunto3for left the game
+[09:19:10] [User Authenticator #36/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[09:19:10] [Server thread/INFO]: hunto3for[/123.194.165.1:56820] logged in with entity id 58820 at (-502.02670915272347, 66.0, 269.2715602024357)
+[09:19:10] [Server thread/INFO]: hunto3for joined the game
+[09:19:29] [User Authenticator #37/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[09:19:29] [Server thread/INFO]: hunto3for lost connection: You logged in from another location
+[09:19:29] [Server thread/INFO]: hunto3for left the game
+[09:19:29] [Server thread/INFO]: hunto3for[/123.194.165.1:56827] logged in with entity id 58938 at (-502.02670915272347, 66.0, 269.2715602024357)
+[09:19:29] [Server thread/INFO]: hunto3for joined the game
+[09:20:17] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[09:20:17] [Server thread/INFO]: piesOf314 left the game
+[09:20:22] [User Authenticator #38/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[09:20:22] [Server thread/INFO]: piesOf314[/160.39.5.167:56027] logged in with entity id 59138 at (-505.78484687293894, 65.0, 266.36815016787324)
+[09:20:22] [Server thread/INFO]: piesOf314 joined the game
+[09:31:18] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[09:31:18] [Server thread/INFO]: KibaNihito left the game
+[09:32:50] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[09:32:50] [Server thread/INFO]: piesOf314 left the game
+[09:38:40] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[09:38:40] [Server thread/INFO]: Lien116 left the game
+[09:42:31] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[09:42:31] [Server thread/INFO]: hunto3for left the game
+[10:13:23] [Server thread/WARN]: NatsuhiLight moved wrongly!
+[11:00:17] [Server thread/INFO]: NatsuhiLight has made the advancement [Enchanter]
+[11:18:11] [User Authenticator #39/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[11:18:11] [Server thread/INFO]: KibaNihito[/61.62.147.117:9817] logged in with entity id 90463 at (-726.814088326662, 71.0, 353.58283840987787)
+[11:18:11] [Server thread/INFO]: KibaNihito joined the game
+[11:24:01] [User Authenticator #40/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
+[11:24:01] [Server thread/INFO]: sugisaki1994[/218.161.54.164:35529] logged in with entity id 93038 at (-479.03688620741895, -54.0, 373.88270832394437)
+[11:24:01] [Server thread/INFO]: sugisaki1994 joined the game
+[11:27:56] [Server thread/INFO]: sugisaki1994 has made the advancement [Diamonds!]
+[11:37:54] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:37:54] [Server thread/INFO]: TevesWang left the game
+[11:49:58] [Server thread/INFO]: NatsuhiLight has completed the challenge [Return to Sender]
+[11:51:28] [Server thread/INFO]: NatsuhiLight has made the advancement [Those Were the Days]
+[11:54:14] [Server thread/INFO]: NatsuhiLight has made the advancement [War Pigs]
+[11:54:31] [Server thread/INFO]: NatsuhiLight has made the advancement [Hidden in the Depths]
+[11:56:12] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[11:56:12] [Server thread/INFO]: NatsuhiLight left the game
+[11:58:40] [User Authenticator #41/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[11:58:40] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:51008] logged in with entity id 107433 at (-85.78557996636816, 72.0, -136.0969566448427)
+[11:58:40] [Server thread/INFO]: NatsuhiLight joined the game
