@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2022-04-26 16:47:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-04-26 16:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2022-04-26 16:47:42 +0000"
     },
     "done": true
   },
@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2022-04-26 16:47:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2022-04-26 16:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2022-04-26 16:47:42 +0000"
     },
     "done": true
   },
@@ -91,10 +91,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2022-05-01 05:40:39 +0000",
+      "minecraft:river": "2022-05-01 05:40:35 +0000",
       "minecraft:savanna": "2022-04-26 16:16:09 +0000",
       "minecraft:plains": "2022-04-26 16:59:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-04-26 16:24:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
@@ -102,9 +110,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_log": "2022-04-26 16:24:39 +0000"
+      "has_string": "2022-04-26 16:35:35 +0000"
     },
     "done": true
   },
@@ -114,9 +122,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_string": "2022-04-26 16:35:35 +0000"
+      "slept_in_bed": "2022-05-01 05:42:22 +0000"
     },
     "done": true
   },
@@ -156,21 +164,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2022-04-26 16:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-04-26 16:47:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-04-26 16:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-04-26 16:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-05-01 05:55:10 +0000"
     },
     "done": true
   },
@@ -219,6 +233,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-04-26 16:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2022-05-01 05:59:17 +0000"
     },
     "done": true
   },
@@ -282,6 +302,12 @@
       "minecraft:zombie": "2022-04-26 16:35:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-05-01 05:42:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
