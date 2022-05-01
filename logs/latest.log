@@ -72,3 +72,11 @@
 [17:25:03] [User Authenticator #6/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
 [17:25:03] [Server thread/INFO]: piesOf314[/160.39.5.167:58880] logged in with entity id 62934 at (-498.0411898263331, 67.0, 249.4940568839839)
 [17:25:03] [Server thread/INFO]: piesOf314 joined the game
+[18:00:05] [Server thread/INFO]: piesOf314 lost connection: Timed out
+[18:00:05] [Server thread/INFO]: piesOf314 left the game
+[18:18:05] [Server thread/WARN]: Boat (vehicle of hunto3for) moved wrongly! 0.27909536659370815
+[18:18:05] [Server thread/WARN]: Boat (vehicle of hunto3for) moved wrongly! 0.5803972091914602
+[18:18:05] [Server thread/WARN]: Boat (vehicle of hunto3for) moved wrongly! 0.8808816120953225
+[18:18:05] [Server thread/WARN]: Boat (vehicle of hunto3for) moved wrongly! 1.180455909709849
+[19:30:06] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[19:30:06] [Server thread/INFO]: hunto3for left the game
