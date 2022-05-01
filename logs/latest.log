@@ -46,3 +46,35 @@
 [02:52:25] [Server thread/INFO]: sugisaki1994[/218.161.54.164:43367] logged in with entity id 561 at (-518.2093465668435, 64.0, 255.6967454090843)
 [02:52:25] [Server thread/INFO]: sugisaki1994 joined the game
 [02:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
+[03:11:22] [User Authenticator #3/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[03:11:22] [Server thread/INFO]: KibaNihito[/61.62.147.117:14929] logged in with entity id 4947 at (-277.5, 72.0, -17.5)
+[03:11:22] [Server thread/INFO]: KibaNihito joined the game
+[03:15:56] [Server thread/INFO]: KibaNihito has made the advancement [Stone Age]
+[03:16:36] [Server thread/INFO]: KibaNihito has made the advancement [Getting an Upgrade]
+[03:17:33] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[03:17:33] [Server thread/INFO]: TevesWang[/71.227.248.184:55831] logged in with entity id 7454 at (-513.1057655653672, 64.0, 292.17195363108783)
+[03:17:33] [Server thread/INFO]: TevesWang joined the game
+[03:23:00] [Server thread/INFO]: KibaNihito has made the advancement [Monster Hunter]
+[03:27:19] [Server thread/INFO]: Villager bnw['Villager'/73, l='ServerLevel[world]', x=-522.08, y=64.00, z=275.33] died, message: 'Villager was slain by Drowned'
+[03:27:33] [Server thread/INFO]: Villager bnw['Cleric'/74, l='ServerLevel[world]', x=-518.30, y=64.00, z=276.46] died, message: 'Cleric was slain by Drowned'
+[03:27:53] [Server thread/INFO]: Villager bnw['Villager'/72, l='ServerLevel[world]', x=-520.43, y=64.00, z=275.51] died, message: 'Villager was slain by Drowned'
+[03:35:17] [Server thread/INFO]: <KibaNihito> 測試
+[03:45:36] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[03:45:36] [Server thread/INFO]: KibaNihito left the game
+[03:45:46] [User Authenticator #5/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[03:45:46] [Server thread/INFO]: KibaNihito[/61.62.147.117:1569] logged in with entity id 19205 at (-532.2613823271619, 63.0, 289.7729281197226)
+[03:45:46] [Server thread/INFO]: KibaNihito joined the game
+[03:45:51] [Server thread/INFO]: KibaNihito was slain by Zombie
+[03:55:55] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[03:55:55] [Server thread/INFO]: KibaNihito left the game
+[04:10:14] [Server thread/INFO]: sugisaki1994 has made the advancement [Monster Hunter]
+[04:26:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@72630984[id=<null>,name=NatsuhiLight,properties={},legacy=false] (/118.169.68.1:62421) lost connection: Disconnected
+[04:26:57] [User Authenticator #6/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[04:26:57] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:4447] logged in with entity id 33231 at (-527.9126536344818, 63.0, 282.23268723367335)
+[04:26:57] [Server thread/INFO]: NatsuhiLight joined the game
+[04:43:42] [Server thread/INFO]: sugisaki1994 has made the advancement [Acquire Hardware]
+[04:44:13] [Server thread/INFO]: sugisaki1994 has made the advancement [Isn't It Iron Pick]
+[04:44:47] [Server thread/INFO]: sugisaki1994 has made the advancement [Suit Up]
+[04:46:27] [User Authenticator #7/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[04:46:27] [Server thread/INFO]: KibaNihito[/61.62.147.117:10437] logged in with entity id 39032 at (-676.2676609209012, 73.0, 344.5870984079139)
+[04:46:27] [Server thread/INFO]: KibaNihito joined the game
