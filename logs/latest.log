@@ -1,59 +1,48 @@
-[01:45:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:45:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:45:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:45:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:45:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:45:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:45:28] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:45:29] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[01:45:31] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[01:45:31] [Server thread/INFO]: Loading properties
-[01:45:31] [Server thread/INFO]: Default game type: SURVIVAL
-[01:45:31] [Server thread/INFO]: Generating keypair
-[01:45:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:45:31] [Server thread/INFO]: Using epoll channel type
-[01:45:31] [Server thread/INFO]: Preparing level "world"
-[01:45:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:45:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:45:44] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[01:45:44] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[01:45:45] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[01:45:45] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[01:45:46] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[01:45:46] [Worker-Main-2/INFO]: Preparing spawn area: 39%
-[01:45:47] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[01:45:47] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[01:45:48] [Worker-Main-2/INFO]: Preparing spawn area: 98%
-[01:45:48] [Server thread/INFO]: Time elapsed: 10297 ms
-[01:45:48] [Server thread/INFO]: Done (17.064s)! For help, type "help"
-[01:46:08] [User Authenticator #1/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
-[01:46:08] [Server thread/INFO]: piesOf314[/160.39.5.167:51133] logged in with entity id 45 at (-510.52296547624275, 64.0, 297.0955112301503)
-[01:46:08] [Server thread/INFO]: piesOf314 joined the game
-[01:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[01:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
-[01:50:49] [User Authenticator #2/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
-[01:50:49] [Server thread/INFO]: sugisaki1994[/218.161.54.164:45582] logged in with entity id 1418 at (-273.5, 71.0, -15.5)
-[01:50:49] [Server thread/INFO]: sugisaki1994 joined the game
-[01:53:19] [Server thread/INFO]: sugisaki1994 lost connection: Disconnected
-[01:53:19] [Server thread/INFO]: sugisaki1994 left the game
-[01:53:19] [Server thread/WARN]: handleDisconnection() called twice
-[01:53:32] [User Authenticator #3/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
-[01:53:32] [Server thread/INFO]: sugisaki1994[/218.161.54.164:45732] logged in with entity id 2555 at (-402.51853081170077, 68.0, 134.02938913568536)
-[01:53:32] [Server thread/INFO]: sugisaki1994 joined the game
-[02:02:07] [Server thread/INFO]: sugisaki1994 has made the advancement [Stone Age]
-[02:03:31] [Server thread/INFO]: sugisaki1994 has made the advancement [Getting an Upgrade]
-[02:05:29] [Server thread/INFO]: sugisaki1994 has made the advancement [Sweet Dreams]
-[02:33:38] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[02:33:38] [Server thread/INFO]: piesOf314 left the game
-[02:41:05] [Server thread/INFO]: sugisaki1994 lost connection: Disconnected
-[02:41:05] [Server thread/INFO]: sugisaki1994 left the game
+[02:50:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:50:28] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:50:28] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[02:50:31] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[02:50:31] [Server thread/INFO]: Loading properties
+[02:50:31] [Server thread/INFO]: Default game type: SURVIVAL
+[02:50:31] [Server thread/INFO]: Generating keypair
+[02:50:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:50:31] [Server thread/INFO]: Using epoll channel type
+[02:50:31] [Server thread/INFO]: Preparing level "world"
+[02:50:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[02:50:46] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[02:50:46] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[02:50:47] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[02:50:47] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[02:50:48] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[02:50:48] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[02:50:49] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[02:50:50] [Server thread/INFO]: Time elapsed: 11387 ms
+[02:50:50] [Server thread/INFO]: Done (18.358s)! For help, type "help"
+[02:52:14] [User Authenticator #1/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[02:52:15] [Server thread/INFO]: piesOf314[/160.39.5.167:56990] logged in with entity id 46 at (-516.0198364989507, 63.9375, 262.2395421433189)
+[02:52:15] [Server thread/INFO]: piesOf314 joined the game
+[02:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02:52:24] [User Authenticator #2/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
+[02:52:25] [Server thread/INFO]: sugisaki1994[/218.161.54.164:43367] logged in with entity id 561 at (-518.2093465668435, 64.0, 255.6967454090843)
+[02:52:25] [Server thread/INFO]: sugisaki1994 joined the game
+[02:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
