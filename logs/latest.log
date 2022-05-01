@@ -1,378 +1,156 @@
-[02:50:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:50:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:50:28] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:50:28] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[02:50:31] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[02:50:31] [Server thread/INFO]: Loading properties
-[02:50:31] [Server thread/INFO]: Default game type: SURVIVAL
-[02:50:31] [Server thread/INFO]: Generating keypair
-[02:50:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:50:31] [Server thread/INFO]: Using epoll channel type
-[02:50:31] [Server thread/INFO]: Preparing level "world"
-[02:50:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[02:50:46] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[02:50:46] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[02:50:47] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[02:50:47] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[02:50:48] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[02:50:48] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[02:50:49] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[02:50:50] [Server thread/INFO]: Time elapsed: 11387 ms
-[02:50:50] [Server thread/INFO]: Done (18.358s)! For help, type "help"
-[02:52:14] [User Authenticator #1/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
-[02:52:15] [Server thread/INFO]: piesOf314[/160.39.5.167:56990] logged in with entity id 46 at (-516.0198364989507, 63.9375, 262.2395421433189)
-[02:52:15] [Server thread/INFO]: piesOf314 joined the game
-[02:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[02:52:24] [User Authenticator #2/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
-[02:52:25] [Server thread/INFO]: sugisaki1994[/218.161.54.164:43367] logged in with entity id 561 at (-518.2093465668435, 64.0, 255.6967454090843)
-[02:52:25] [Server thread/INFO]: sugisaki1994 joined the game
-[02:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
-[03:11:22] [User Authenticator #3/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
-[03:11:22] [Server thread/INFO]: KibaNihito[/61.62.147.117:14929] logged in with entity id 4947 at (-277.5, 72.0, -17.5)
-[03:11:22] [Server thread/INFO]: KibaNihito joined the game
-[03:15:56] [Server thread/INFO]: KibaNihito has made the advancement [Stone Age]
-[03:16:36] [Server thread/INFO]: KibaNihito has made the advancement [Getting an Upgrade]
-[03:17:33] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:17:33] [Server thread/INFO]: TevesWang[/71.227.248.184:55831] logged in with entity id 7454 at (-513.1057655653672, 64.0, 292.17195363108783)
-[03:17:33] [Server thread/INFO]: TevesWang joined the game
-[03:23:00] [Server thread/INFO]: KibaNihito has made the advancement [Monster Hunter]
-[03:27:19] [Server thread/INFO]: Villager bnw['Villager'/73, l='ServerLevel[world]', x=-522.08, y=64.00, z=275.33] died, message: 'Villager was slain by Drowned'
-[03:27:33] [Server thread/INFO]: Villager bnw['Cleric'/74, l='ServerLevel[world]', x=-518.30, y=64.00, z=276.46] died, message: 'Cleric was slain by Drowned'
-[03:27:53] [Server thread/INFO]: Villager bnw['Villager'/72, l='ServerLevel[world]', x=-520.43, y=64.00, z=275.51] died, message: 'Villager was slain by Drowned'
-[03:35:17] [Server thread/INFO]: <KibaNihito> 測試
-[03:45:36] [Server thread/INFO]: KibaNihito lost connection: Disconnected
-[03:45:36] [Server thread/INFO]: KibaNihito left the game
-[03:45:46] [User Authenticator #5/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
-[03:45:46] [Server thread/INFO]: KibaNihito[/61.62.147.117:1569] logged in with entity id 19205 at (-532.2613823271619, 63.0, 289.7729281197226)
-[03:45:46] [Server thread/INFO]: KibaNihito joined the game
-[03:45:51] [Server thread/INFO]: KibaNihito was slain by Zombie
-[03:55:55] [Server thread/INFO]: KibaNihito lost connection: Disconnected
-[03:55:55] [Server thread/INFO]: KibaNihito left the game
-[04:10:14] [Server thread/INFO]: sugisaki1994 has made the advancement [Monster Hunter]
-[04:26:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@72630984[id=<null>,name=NatsuhiLight,properties={},legacy=false] (/118.169.68.1:62421) lost connection: Disconnected
-[04:26:57] [User Authenticator #6/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[04:26:57] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:4447] logged in with entity id 33231 at (-527.9126536344818, 63.0, 282.23268723367335)
-[04:26:57] [Server thread/INFO]: NatsuhiLight joined the game
-[04:43:42] [Server thread/INFO]: sugisaki1994 has made the advancement [Acquire Hardware]
-[04:44:13] [Server thread/INFO]: sugisaki1994 has made the advancement [Isn't It Iron Pick]
-[04:44:47] [Server thread/INFO]: sugisaki1994 has made the advancement [Suit Up]
-[04:46:27] [User Authenticator #7/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
-[04:46:27] [Server thread/INFO]: KibaNihito[/61.62.147.117:10437] logged in with entity id 39032 at (-676.2676609209012, 73.0, 344.5870984079139)
-[04:46:27] [Server thread/INFO]: KibaNihito joined the game
-[04:59:07] [Server thread/INFO]: KibaNihito was slain by Zombie
-[05:01:32] [Server thread/INFO]: KibaNihito has made the advancement [Acquire Hardware]
-[05:02:23] [Server thread/INFO]: piesOf314 fell from a high place
-[05:06:40] [User Authenticator #8/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[05:06:40] [Server thread/INFO]: Lien116[/114.36.192.56:8253] logged in with entity id 49377 at (-523.7014439466863, 64.0, 261.9892024788333)
-[05:06:40] [Server thread/INFO]: Lien116 joined the game
-[05:08:40] [Server thread/INFO]: Lien116 has made the advancement [Isn't It Iron Pick]
-[05:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[05:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21195ms or 423 ticks behind
-[05:16:55] [Server thread/INFO]: Lien116 has made the advancement [The Parrots and the Bats]
-[05:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[05:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14196ms or 283 ticks behind
-[05:18:06] [Server thread/INFO]: KibaNihito lost connection: Disconnected
-[05:18:06] [Server thread/INFO]: KibaNihito left the game
-[05:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13918ms or 278 ticks behind
-[05:18:13] [User Authenticator #9/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
-[05:18:13] [Server thread/INFO]: KibaNihito[/61.62.147.117:1481] logged in with entity id 54121 at (-676.3000000119209, 72.0, 334.9919675300743)
-[05:18:13] [Server thread/INFO]: KibaNihito joined the game
-[05:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16514ms or 330 ticks behind
-[05:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13308ms or 266 ticks behind
-[05:19:15] [Server thread/INFO]: KibaNihito has made the advancement [Sweet Dreams]
-[05:19:20] [Server thread/INFO]: <Lien116> zzz
-[05:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9687ms or 193 ticks behind
-[05:19:36] [Server thread/INFO]: sugisaki1994 lost connection: Disconnected
-[05:19:36] [Server thread/INFO]: sugisaki1994 left the game
-[05:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11527ms or 230 ticks behind
-[05:20:38] [User Authenticator #10/INFO]: UUID of player sugisaki1994 is dd5686ff-ba1c-4e39-8638-d37eafff8335
-[05:20:38] [Server thread/INFO]: sugisaki1994[/218.161.54.164:46264] logged in with entity id 54866 at (-474.48750001192093, 45.0, 373.6821053579618)
-[05:20:38] [Server thread/INFO]: sugisaki1994 joined the game
-[05:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[05:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12166ms or 243 ticks behind
-[05:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10085ms or 201 ticks behind
-[05:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8529ms or 170 ticks behind
-[05:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7311ms or 146 ticks behind
-[05:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9308ms or 186 ticks behind
-[05:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7412ms or 148 ticks behind
-[05:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8069ms or 161 ticks behind
-[05:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8509ms or 170 ticks behind
-[05:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[05:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9593ms or 191 ticks behind
-[05:27:36] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[05:27:36] [Server thread/INFO]: Lien116 left the game
-[05:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9983ms or 199 ticks behind
-[05:27:40] [User Authenticator #11/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[05:27:40] [Server thread/INFO]: Lien116[/114.36.192.56:3052] logged in with entity id 57148 at (-382.905095677092, 20.0, 364.0053768900965)
-[05:27:40] [Server thread/INFO]: Lien116 joined the game
-[05:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11766ms or 235 ticks behind
-[05:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9843ms or 196 ticks behind
-[05:28:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14012ms or 280 ticks behind
-[05:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10023ms or 200 ticks behind
-[05:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11483ms or 229 ticks behind
-[05:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7011ms or 140 ticks behind
-[05:31:31] [Server thread/INFO]: Lien116 has made the advancement [Not Today, Thank You]
-[05:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13666ms or 273 ticks behind
-[05:32:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12329ms or 246 ticks behind
-[05:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13521ms or 270 ticks behind
-[05:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13958ms or 279 ticks behind
-[05:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13384ms or 267 ticks behind
-[05:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
-[05:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9911ms or 198 ticks behind
-[05:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[05:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8354ms or 167 ticks behind
-[05:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7945ms or 158 ticks behind
-[05:37:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8621ms or 172 ticks behind
-[05:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7047ms or 140 ticks behind
-[05:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6772ms or 135 ticks behind
-[05:38:51] [User Authenticator #12/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[05:38:51] [Server thread/INFO]: hunto3for[/123.194.165.1:56826] logged in with entity id 60639 at (-280.7697238845917, 73.0, -6.688755324126961)
-[05:38:51] [Server thread/INFO]: hunto3for joined the game
-[05:39:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12846ms or 256 ticks behind
-[05:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16946ms or 338 ticks behind
-[05:39:52] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[05:39:52] [Server thread/INFO]: piesOf314 left the game
-[05:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15727ms or 314 ticks behind
-[05:40:31] [Server thread/INFO]: Lien116 has made the advancement [We Need to Go Deeper]
-[05:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
-[05:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[05:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39258ms or 785 ticks behind
-[05:42:22] [Server thread/INFO]: hunto3for has made the advancement [Sweet Dreams]
-[05:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30501ms or 610 ticks behind
-[05:43:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36517ms or 730 ticks behind
-[05:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36897ms or 737 ticks behind
-[05:45:05] [Server thread/INFO]: sugisaki1994 fell off a ladder
-[05:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27747ms or 554 ticks behind
-[05:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[05:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20648ms or 412 ticks behind
-[05:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11597ms or 231 ticks behind
-[05:47:30] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[05:47:30] [Server thread/INFO]: Lien116 left the game
-[05:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8336ms or 166 ticks behind
-[05:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6055ms or 121 ticks behind
-[05:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6846ms or 136 ticks behind
-[05:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9264ms or 185 ticks behind
-[05:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
-[05:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8220ms or 164 ticks behind
-[05:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9490ms or 189 ticks behind
-[05:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[05:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6443ms or 128 ticks behind
-[05:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6738ms or 134 ticks behind
-[05:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
-[05:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6343ms or 126 ticks behind
-[05:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7010ms or 140 ticks behind
-[05:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
-[05:54:14] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[05:54:14] [Server thread/INFO]: hunto3for left the game
-[05:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
-[05:54:36] [User Authenticator #13/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[05:54:37] [Server thread/INFO]: hunto3for[/123.194.165.1:56756] logged in with entity id 65648 at (-483.67158687107695, 72.0, 257.8714788026025)
-[05:54:37] [Server thread/INFO]: hunto3for joined the game
-[05:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6719ms or 134 ticks behind
-[05:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6216ms or 124 ticks behind
-[05:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[05:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4599ms or 91 ticks behind
-[05:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[05:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5663ms or 113 ticks behind
-[05:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
-[05:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6771ms or 135 ticks behind
-[05:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6588ms or 131 ticks behind
-[05:59:17] [Server thread/INFO]: hunto3for has made the advancement [A Seedy Place]
-[05:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6745ms or 134 ticks behind
-[05:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6416ms or 128 ticks behind
-[06:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
-[06:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[06:01:54] [Server thread/INFO]: Villager bnw['Villager'/142, l='ServerLevel[world]', x=-519.99, y=64.00, z=275.49] died, message: 'Villager was slain by Drowned'
-[06:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15421ms or 308 ticks behind
-[06:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10173ms or 203 ticks behind
-[06:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15532ms or 310 ticks behind
-[06:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14993ms or 299 ticks behind
-[06:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8415ms or 168 ticks behind
-[06:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
-[06:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
-[06:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
-[06:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6350ms or 127 ticks behind
-[06:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4855ms or 97 ticks behind
-[06:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4333ms or 86 ticks behind
-[06:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6044ms or 120 ticks behind
-[06:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7646ms or 152 ticks behind
-[06:08:25] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[06:08:25] [Server thread/INFO]: hunto3for left the game
-[06:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
-[06:08:45] [Server thread/INFO]: KibaNihito has made the advancement [Suit Up]
-[06:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
-[06:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4368ms or 87 ticks behind
-[06:09:35] [User Authenticator #14/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[06:09:35] [Server thread/INFO]: hunto3for[/123.194.165.1:56925] logged in with entity id 69819 at (-499.3126736143882, 64.0, 286.8053874426619)
-[06:09:35] [Server thread/INFO]: hunto3for joined the game
-[06:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6662ms or 133 ticks behind
-[06:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8270ms or 165 ticks behind
-[06:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[06:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13424ms or 268 ticks behind
-[06:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43992ms or 879 ticks behind
-[06:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27525ms or 550 ticks behind
-[06:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8172ms or 163 ticks behind
-[06:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7935ms or 158 ticks behind
-[06:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
-[06:16:16] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[06:16:16] [Server thread/INFO]: hunto3for left the game
-[06:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[06:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4929ms or 98 ticks behind
-[06:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5474ms or 109 ticks behind
-[06:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5567ms or 111 ticks behind
-[06:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
-[06:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6277ms or 125 ticks behind
-[06:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4825ms or 96 ticks behind
-[06:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5831ms or 116 ticks behind
-[06:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5382ms or 107 ticks behind
-[06:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4881ms or 97 ticks behind
-[06:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[06:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
-[06:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
-[06:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
-[06:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4989ms or 99 ticks behind
-[06:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
-[06:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
-[06:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5140ms or 102 ticks behind
-[06:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
-[06:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
-[06:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[06:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4367ms or 87 ticks behind
-[06:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4707ms or 94 ticks behind
-[06:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4163ms or 83 ticks behind
-[06:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind
-[06:28:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
-[06:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
-[06:29:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
-[06:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4758ms or 95 ticks behind
-[06:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
-[06:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[06:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8015ms or 160 ticks behind
-[06:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6337ms or 126 ticks behind
-[06:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5118ms or 102 ticks behind
-[06:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4783ms or 95 ticks behind
-[06:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4250ms or 85 ticks behind
-[06:33:50] [User Authenticator #15/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[06:33:50] [Server thread/INFO]: Lien116[/114.36.192.56:8859] logged in with entity id 77428 at (-490.37090568134107, 65.0, 305.0893540615562)
-[06:33:50] [Server thread/INFO]: Lien116 joined the game
-[06:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7353ms or 147 ticks behind
-[06:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5623ms or 112 ticks behind
-[06:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
-[06:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
-[06:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[06:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8385ms or 167 ticks behind
-[06:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
-[06:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
-[06:38:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
-[06:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5952ms or 119 ticks behind
-[06:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7028ms or 140 ticks behind
-[06:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6997ms or 139 ticks behind
-[06:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
-[06:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
-[06:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[06:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6961ms or 139 ticks behind
-[06:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5482ms or 109 ticks behind
-[06:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5443ms or 108 ticks behind
-[06:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6713ms or 134 ticks behind
-[06:43:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6664ms or 133 ticks behind
-[06:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8743ms or 174 ticks behind
-[06:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17846ms or 356 ticks behind
-[06:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
-[06:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[06:47:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[06:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
-[06:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5547ms or 110 ticks behind
-[06:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5902ms or 118 ticks behind
-[06:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12968ms or 259 ticks behind
-[06:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6303ms or 126 ticks behind
-[06:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5457ms or 109 ticks behind
-[06:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6346ms or 126 ticks behind
-[06:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7106ms or 142 ticks behind
-[06:52:23] [Server thread/INFO]: NatsuhiLight has made the advancement [We Need to Go Deeper]
-[06:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11637ms or 232 ticks behind
-[06:52:51] [Server thread/INFO]: TevesWang has made the advancement [We Need to Go Deeper]
-[06:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9647ms or 192 ticks behind
-[06:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10457ms or 209 ticks behind
-[06:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12192ms or 243 ticks behind
-[06:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12541ms or 250 ticks behind
-[06:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22714ms or 454 ticks behind
-[06:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[06:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9756ms or 195 ticks behind
-[06:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9511ms or 190 ticks behind
-[06:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10269ms or 205 ticks behind
-[06:58:03] [Server thread/INFO]: TevesWang burned to death
-[06:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12789ms or 255 ticks behind
-[06:58:39] [Server thread/INFO]: sugisaki1994 lost connection: Timed out
-[06:58:39] [Server thread/INFO]: sugisaki1994 left the game
-[06:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14655ms or 293 ticks behind
-[06:58:45] [Server thread/INFO]: KibaNihito has made the advancement [Not Today, Thank You]
-[06:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11235ms or 224 ticks behind
-[06:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10827ms or 216 ticks behind
-[07:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16766ms or 335 ticks behind
-[07:00:28] [Server thread/INFO]: TevesWang was shot by Skeleton
-[07:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[07:01:46] [Server thread/INFO]: <Lien116> -629,65,277
-[07:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22399ms or 447 ticks behind
-[07:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14594ms or 291 ticks behind
-[07:03:01] [Server thread/INFO]: KibaNihito lost connection: Disconnected
-[07:03:01] [Server thread/INFO]: KibaNihito left the game
-[07:03:11] [User Authenticator #16/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
-[07:03:12] [Server thread/INFO]: KibaNihito[/61.62.147.117:7657] logged in with entity id 87596 at (-678.3190359984302, 71.0, 313.8381089797411)
-[07:03:12] [Server thread/INFO]: KibaNihito joined the game
-[07:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13353ms or 267 ticks behind
-[07:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13419ms or 268 ticks behind
-[07:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9557ms or 191 ticks behind
-[07:04:25] [Server thread/INFO]: KibaNihito lost connection: Disconnected
-[07:04:25] [Server thread/INFO]: KibaNihito left the game
-[07:04:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:04:28] [Server thread/INFO]: save<--[HERE]
-[07:04:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:04:32] [Server thread/INFO]: save all<--[HERE]
-[07:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12733ms or 254 ticks behind
-[07:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7900ms or 158 ticks behind
-[07:06:05] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:06:05] [Server thread/INFO]: TevesWang left the game
-[07:06:12] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[07:06:12] [Server thread/INFO]: Lien116 left the game
-[07:07:06] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[07:07:06] [Server thread/INFO]: NatsuhiLight left the game
-[07:07:12] [User Authenticator #17/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[07:07:12] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:55924] logged in with entity id 89195 at (-526.7033722764302, 64.0, 260.48074389318174)
-[07:07:12] [Server thread/INFO]: NatsuhiLight joined the game
-[07:07:18] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[07:07:18] [Server thread/INFO]: NatsuhiLight left the game
-[07:07:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:07:28] [Server thread/INFO]: stopstop<--[HERE]
-[07:07:36] [Server thread/INFO]: Stopping the server
-[07:07:36] [Server thread/INFO]: Stopping server
-[07:07:36] [Server thread/INFO]: Saving players
-[07:07:36] [Server thread/INFO]: Saving worlds
-[07:07:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:07:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:07:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:07:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:14:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:14:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:14:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:14:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:14:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:14:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:14:49] [Worker-Main-2/INFO]: Loaded 7 recipes
+[07:14:49] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[07:14:52] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[07:14:52] [Server thread/INFO]: Loading properties
+[07:14:52] [Server thread/INFO]: Default game type: SURVIVAL
+[07:14:52] [Server thread/INFO]: Generating keypair
+[07:14:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:14:52] [Server thread/INFO]: Using epoll channel type
+[07:14:52] [Server thread/INFO]: Preparing level "world"
+[07:14:54] [User Authenticator #1/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[07:15:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:15:06] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[07:15:07] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[07:15:07] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[07:15:08] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[07:15:08] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[07:15:09] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[07:15:09] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[07:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[07:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[07:15:11] [Server thread/INFO]: Time elapsed: 10991 ms
+[07:15:11] [Server thread/INFO]: Done (18.755s)! For help, type "help"
+[07:15:12] [Server thread/INFO]: piesOf314[/160.39.5.167:63703] logged in with entity id 32 at (-508.21361130646955, 64.9375, 272.8670792406304)
+[07:15:12] [Server thread/INFO]: piesOf314 joined the game
+[07:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[07:15:56] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[07:15:57] [Server thread/INFO]: TevesWang[/71.227.248.184:64209] logged in with entity id 509 at (-535.662015650556, 63.0, 270.62134185406836)
+[07:15:57] [Server thread/INFO]: TevesWang joined the game
+[07:16:04] [User Authenticator #3/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:16:04] [Server thread/INFO]: hunto3for[/123.194.165.1:57312] logged in with entity id 538 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:16:04] [Server thread/INFO]: hunto3for joined the game
+[07:16:45] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[07:16:45] [Server thread/INFO]: hunto3for left the game
+[07:16:50] [User Authenticator #4/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:16:50] [Server thread/INFO]: hunto3for[/123.194.165.1:56851] logged in with entity id 712 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:16:50] [Server thread/INFO]: hunto3for joined the game
+[07:16:52] [User Authenticator #5/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[07:16:52] [Server thread/INFO]: Lien116[/114.36.192.56:9168] logged in with entity id 726 at (-544.8982748877326, 63.0, 271.30021405190166)
+[07:16:52] [Server thread/INFO]: Lien116 joined the game
+[07:16:55] [User Authenticator #6/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[07:16:56] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:51623] logged in with entity id 740 at (-526.7033722764302, 64.0, 260.48074389318174)
+[07:16:56] [Server thread/INFO]: NatsuhiLight joined the game
+[07:17:51] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:17:51] [Server thread/INFO]: hunto3for left the game
+[07:18:15] [User Authenticator #7/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:18:15] [Server thread/INFO]: hunto3for[/123.194.165.1:57325] logged in with entity id 969 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:18:15] [Server thread/INFO]: hunto3for joined the game
+[07:18:25] [Server thread/INFO]: hunto3for was slain by Lien116
+[07:19:15] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:19:15] [Server thread/INFO]: hunto3for left the game
+[07:19:21] [User Authenticator #8/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:19:21] [Server thread/INFO]: hunto3for[/123.194.165.1:56679] logged in with entity id 1186 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:19:21] [Server thread/INFO]: hunto3for joined the game
+[07:20:21] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[07:20:21] [Server thread/INFO]: hunto3for left the game
+[07:20:29] [User Authenticator #9/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:20:29] [Server thread/INFO]: hunto3for[/123.194.165.1:56798] logged in with entity id 1392 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:20:29] [Server thread/INFO]: hunto3for joined the game
+[07:21:30] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:21:30] [Server thread/INFO]: hunto3for left the game
+[07:21:34] [User Authenticator #10/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:21:34] [Server thread/INFO]: hunto3for[/123.194.165.1:56960] logged in with entity id 1591 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:21:34] [Server thread/INFO]: hunto3for joined the game
+[07:22:22] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:22:22] [Server thread/INFO]: hunto3for left the game
+[07:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:22:22] [Server thread/INFO]: //tp hunto3for -502 65 280<--[HERE]
+[07:22:29] [User Authenticator #11/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:22:29] [Server thread/INFO]: hunto3for[/123.194.165.1:57083] logged in with entity id 1750 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:22:29] [Server thread/INFO]: hunto3for joined the game
+[07:22:45] [Server thread/INFO]: No entity was found
+[07:22:59] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:22:59] [Server thread/INFO]: hunto3for left the game
+[07:23:01] [Server thread/INFO]: No entity was found
+[07:23:05] [User Authenticator #12/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:23:05] [Server thread/INFO]: hunto3for[/123.194.165.1:56660] logged in with entity id 1856 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:23:05] [Server thread/INFO]: hunto3for joined the game
+[07:23:41] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:23:41] [Server thread/INFO]: hunto3for left the game
+[07:23:47] [Server thread/INFO]: Incorrect argument for command
+[07:23:47] [Server thread/INFO]: /tp /tp hunto3for -502 65 280<--[HERE]
+[07:23:48] [User Authenticator #13/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:23:48] [Server thread/INFO]: hunto3for[/123.194.165.1:56718] logged in with entity id 1954 at (-525.6598114536944, 64.0, 273.5390748952156)
+[07:23:48] [Server thread/INFO]: hunto3for joined the game
+[07:23:52] [Server thread/INFO]: Teleported hunto3for to -501.500000, 65.000000, 280.500000
+[07:24:28] [Server thread/INFO]: No entity was found
+[07:24:28] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:24:28] [Server thread/INFO]: hunto3for left the game
+[07:24:33] [User Authenticator #14/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:24:33] [Server thread/INFO]: hunto3for[/123.194.165.1:56585] logged in with entity id 2066 at (-501.5, 65.0, 280.5)
+[07:24:33] [Server thread/INFO]: hunto3for joined the game
+[07:24:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:24:35] [Server thread/INFO]: ls<--[HERE]
+[07:24:39] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[07:24:39] [Server thread/INFO]: Lien116 left the game
+[07:24:55] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[07:24:55] [Server thread/INFO]: hunto3for left the game
+[07:25:07] [User Authenticator #15/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[07:25:07] [Server thread/INFO]: KibaNihito[/61.62.147.117:1363] logged in with entity id 2141 at (-673.7799417557305, 72.5, 334.98461290805807)
+[07:25:07] [Server thread/INFO]: KibaNihito joined the game
+[07:25:52] [User Authenticator #16/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:25:52] [Server thread/INFO]: hunto3for[/123.194.165.1:56577] logged in with entity id 2451 at (-501.5, 64.23152379758702, 280.5)
+[07:25:52] [Server thread/INFO]: hunto3for joined the game
+[07:26:12] [User Authenticator #17/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[07:26:12] [Server thread/INFO]: Lien116[/114.36.192.56:8238] logged in with entity id 2588 at (-514.4630663035897, 64.0, 267.83551880299075)
+[07:26:12] [Server thread/INFO]: Lien116 joined the game
+[07:26:26] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:26:26] [Server thread/INFO]: hunto3for left the game
+[07:26:32] [User Authenticator #18/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:26:33] [Server thread/INFO]: hunto3for[/123.194.165.1:57266] logged in with entity id 2693 at (-501.8369183397715, 67.0, 254.35339494173968)
+[07:26:33] [Server thread/INFO]: hunto3for joined the game
+[07:27:03] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:27:03] [Server thread/INFO]: hunto3for left the game
+[07:27:05] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[07:27:05] [Server thread/INFO]: Lien116 left the game
+[07:27:09] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[07:27:09] [Server thread/INFO]: piesOf314 left the game
+[07:27:18] [User Authenticator #19/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:27:18] [Server thread/INFO]: hunto3for[/123.194.165.1:57061] logged in with entity id 2901 at (-501.8369183397715, 67.0, 254.35339494173968)
+[07:27:18] [Server thread/INFO]: hunto3for joined the game
+[07:29:00] [User Authenticator #20/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[07:29:01] [Server thread/INFO]: piesOf314[/160.39.5.167:55889] logged in with entity id 3540 at (-517.1279615135066, 63.9375, 261.0124391039853)
+[07:29:01] [Server thread/INFO]: piesOf314 joined the game
+[07:29:19] [User Authenticator #21/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[07:29:19] [Server thread/INFO]: Lien116[/114.36.192.56:13102] logged in with entity id 3636 at (-505.3762232240999, 65.0, 257.3716115246569)
+[07:29:19] [Server thread/INFO]: Lien116 joined the game
+[07:29:19] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[07:29:19] [Server thread/INFO]: hunto3for left the game
+[07:30:21] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[07:30:21] [Server thread/INFO]: Lien116 left the game
+[07:30:36] [User Authenticator #22/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[07:30:36] [Server thread/INFO]: Lien116[/114.36.192.56:13112] logged in with entity id 4106 at (-514.3000000119209, 64.0, 279.7592526590047)
+[07:30:36] [Server thread/INFO]: Lien116 joined the game
+[07:31:09] [User Authenticator #23/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:31:09] [Server thread/INFO]: hunto3for[/123.194.165.1:56753] logged in with entity id 4323 at (-280.5, 79.0, -22.5)
+[07:31:09] [Server thread/INFO]: hunto3for joined the game
+[07:34:39] [Server thread/INFO]: hunto3for lost connection: Timed out
+[07:34:39] [Server thread/INFO]: hunto3for left the game
