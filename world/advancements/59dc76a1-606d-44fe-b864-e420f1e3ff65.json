@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-01 08:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-04-26 03:58:38 +0000"
@@ -645,6 +651,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2022-05-01 08:54:05 +0000",
       "minecraft:chicken": "2022-04-28 01:01:22 +0000"
     },
     "done": false
@@ -1047,6 +1054,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-04-27 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-05-01 08:03:53 +0000"
     },
     "done": true
   },
@@ -2157,6 +2170,14 @@
     "criteria": {
       "textures/entity/cat/black.png": "2022-04-29 16:16:22 +0000",
       "textures/entity/cat/siamese.png": "2022-04-28 18:53:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-05-01 08:04:49 +0000",
+      "minecraft:warped_forest": "2022-05-01 08:05:28 +0000",
+      "minecraft:basalt_deltas": "2022-05-01 08:03:54 +0000"
     },
     "done": false
   },
