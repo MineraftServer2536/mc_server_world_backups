@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-05-01 16:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
@@ -98,6 +104,18 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-01 07:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-05-01 15:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
     },
     "done": true
   },
@@ -176,6 +194,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-04-27 15:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-05-01 16:16:18 +0000"
     },
     "done": true
   },
@@ -433,9 +457,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-05-01 07:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
     },
     "done": true
   },
@@ -515,7 +551,8 @@
     "criteria": {
       "minecraft:sheep": "2022-05-01 05:24:44 +0000",
       "minecraft:cow": "2022-05-01 05:16:55 +0000",
-      "minecraft:chicken": "2022-05-01 08:10:07 +0000"
+      "minecraft:chicken": "2022-05-01 08:10:07 +0000",
+      "minecraft:rabbit": "2022-05-01 15:58:38 +0000"
     },
     "done": false
   },
@@ -588,6 +625,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-05-01 07:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-05-01 16:16:18 +0000"
     },
     "done": true
   },
@@ -783,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-04-27 15:52:29 +0000"
@@ -871,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-05-01 16:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2022-05-01 08:53:19 +0000"
@@ -928,6 +983,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-05-01 16:04:50 +0000"
     },
     "done": true
   },
@@ -1090,6 +1151,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2022-05-01 07:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-05-01 15:09:12 +0000"
     },
     "done": true
   },
@@ -1423,6 +1490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-04-27 15:44:30 +0000"
@@ -1471,13 +1544,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-05-01 16:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2022-05-01 15:08:48 +0000",
       "minecraft:beach": "2022-04-27 15:54:48 +0000",
+      "minecraft:sparse_jungle": "2022-05-01 15:08:00 +0000",
       "minecraft:river": "2022-04-27 15:54:43 +0000",
       "minecraft:lukewarm_ocean": "2022-05-01 14:49:10 +0000",
       "minecraft:forest": "2022-04-29 14:26:05 +0000",
+      "minecraft:desert": "2022-05-01 15:14:49 +0000",
       "minecraft:jungle": "2022-05-01 14:21:55 +0000",
+      "minecraft:warm_ocean": "2022-05-01 15:15:30 +0000",
       "minecraft:savanna": "2022-04-27 15:43:44 +0000",
       "minecraft:plains": "2022-05-01 07:01:20 +0000"
     },
@@ -1597,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-05-01 16:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-04-27 15:54:44 +0000"
@@ -1612,6 +1701,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2022-05-01 09:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-05-01 16:16:18 +0000"
     },
     "done": true
   },
@@ -1681,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-05-01 16:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-04-29 16:35:51 +0000"
@@ -1693,15 +1794,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-05-01 15:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2022-05-01 05:40:31 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2022-05-01 16:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-05-01 14:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-05-01 16:03:04 +0000"
     },
     "done": true
   },
