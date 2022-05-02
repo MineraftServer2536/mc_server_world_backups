@@ -75,3 +75,59 @@
 [14:51:07] [Server thread/INFO]: KibaNihito lost connection: Disconnected
 [14:51:07] [Server thread/INFO]: KibaNihito left the game
 [14:59:34] [Server thread/INFO]: billyee was slain by Enderman
+[15:00:04] [Server thread/INFO]: billyee lost connection: Disconnected
+[15:00:04] [Server thread/INFO]: billyee left the game
+[15:20:20] [User Authenticator #8/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[15:20:20] [Server thread/INFO]: piesOf314[/160.39.5.167:58954] logged in with entity id 53302 at (-514.4102621516372, 64.0, 263.7450942970662)
+[15:20:20] [Server thread/INFO]: piesOf314 joined the game
+[15:24:37] [Server thread/INFO]: piesOf314 fell from a high place
+[15:29:52] [Server thread/INFO]: piesOf314 fell from a high place
+[15:32:16] [Server thread/INFO]: Lien116 lost connection: Timed out
+[15:32:16] [Server thread/INFO]: Lien116 left the game
+[15:32:16] [Server thread/WARN]: handleDisconnection() called twice
+[15:33:43] [User Authenticator #9/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[15:33:43] [Server thread/INFO]: Lien116[/114.36.192.56:8505] logged in with entity id 63394 at (-523.5617051726367, 64.0, 263.57912024338094)
+[15:33:43] [Server thread/INFO]: Lien116 joined the game
+[15:34:52] [Server thread/INFO]: piesOf314 was slain by Drowned
+[15:59:30] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[15:59:30] [Server thread/INFO]: TevesWang left the game
+[15:59:53] [User Authenticator #10/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[15:59:53] [Server thread/INFO]: TevesWang[/71.227.248.184:62818] logged in with entity id 80096 at (-473.3137271333137, 72.0, 268.61945567994843)
+[15:59:53] [Server thread/INFO]: TevesWang joined the game
+[16:05:44] [Server thread/INFO]: Lien116 has made the advancement [Cover Me with Diamonds]
+[16:15:58] [Server thread/INFO]: piesOf314 was shot by Lien116
+[16:15:58] [Server thread/INFO]: Lien116 has made the advancement [Take Aim]
+[16:19:32] [Server thread/INFO]: Lien116 lost connection: Timed out
+[16:19:32] [Server thread/INFO]: Lien116 left the game
+[16:20:23] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[16:20:23] [Server thread/INFO]: hunto3for left the game
+[16:35:33] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:35:33] [Server thread/INFO]: NatsuhiLight left the game
+[16:35:35] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[16:35:35] [Server thread/INFO]: piesOf314 left the game
+[16:35:36] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:35:36] [Server thread/INFO]: TevesWang left the game
+[16:36:39] [User Authenticator #11/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[16:36:40] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:64281] logged in with entity id 87629 at (-511.1623273205802, 64.0, 257.76583579886005)
+[16:36:40] [Server thread/INFO]: NatsuhiLight joined the game
+[16:37:12] [User Authenticator #12/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[16:37:12] [Server thread/INFO]: TevesWang[/71.227.248.184:63756] logged in with entity id 88193 at (-502.62447700727836, 64.0, 280.31510209755385)
+[16:37:12] [Server thread/INFO]: TevesWang joined the game
+[16:37:30] [User Authenticator #13/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[16:37:30] [Server thread/INFO]: piesOf314[/160.39.5.167:60718] logged in with entity id 88270 at (-543.6096464052674, 186.34209508655061, 279.5854757233748)
+[16:37:30] [Server thread/INFO]: piesOf314 joined the game
+[16:45:57] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:45:57] [Server thread/INFO]: TevesWang left the game
+[16:54:38] [User Authenticator #14/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[16:54:38] [Server thread/INFO]: TevesWang[/71.227.248.184:64202] logged in with entity id 92596 at (-465.84923220934985, 65.0, 289.18623246206005)
+[16:54:38] [Server thread/INFO]: TevesWang joined the game
+[17:20:15] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[17:20:15] [Server thread/INFO]: TevesWang left the game
+[17:20:33] [Server thread/INFO]: NatsuhiLight has completed the challenge [Hot Tourist Destinations]
+[17:21:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-311, y=63, z=-33} gj{x=-310, y=63, z=-32}
+[17:25:36] [Server thread/INFO]: piesOf314 has made the advancement [A Terrible Fortress]
+[17:25:52] [Server thread/INFO]: NatsuhiLight has made the advancement [A Terrible Fortress]
+[17:34:09] [Server thread/INFO]: piesOf314 was slain by Piglin
+[17:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[17:59:58] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[17:59:59] [Server thread/INFO]: NatsuhiLight left the game
