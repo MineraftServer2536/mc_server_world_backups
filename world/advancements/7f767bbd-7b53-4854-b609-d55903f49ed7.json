@@ -739,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-02 14:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-27 10:07:22 +0000"
@@ -1628,6 +1634,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-04-27 11:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-05-02 14:18:09 +0000"
     },
     "done": true
   },
@@ -2565,6 +2577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2022-05-02 13:42:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-04-27 10:07:22 +0000"
@@ -2718,6 +2736,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-04-26 17:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-02 14:12:16 +0000"
     },
     "done": true
   },

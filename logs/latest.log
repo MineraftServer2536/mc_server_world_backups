@@ -1,119 +1,77 @@
-[02:41:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:41:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:41:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:41:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:52] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:41:53] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[02:41:55] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[02:41:55] [Server thread/INFO]: Loading properties
-[02:41:55] [Server thread/INFO]: Default game type: SURVIVAL
-[02:41:55] [Server thread/INFO]: Generating keypair
-[02:41:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:41:56] [Server thread/INFO]: Using epoll channel type
-[02:41:56] [Server thread/INFO]: Preparing level "world"
-[02:42:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:42:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:42:08] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[02:42:09] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[02:42:09] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[02:42:10] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[02:42:10] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[02:42:11] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[02:42:11] [Worker-Main-2/INFO]: Preparing spawn area: 82%
-[02:42:12] [Server thread/INFO]: Time elapsed: 9524 ms
-[02:42:12] [Server thread/INFO]: Done (16.472s)! For help, type "help"
-[02:43:08] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[02:43:09] [Server thread/INFO]: TevesWang[/71.227.248.184:49366] logged in with entity id 41 at (-437.65572921894614, 68.0, 300.46838799641125)
-[02:43:09] [Server thread/INFO]: TevesWang joined the game
-[02:43:40] [User Authenticator #2/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
-[02:43:40] [Server thread/INFO]: piesOf314[/160.39.5.167:61709] logged in with entity id 542 at (-524.6830608601629, 64.0, 262.332927461681)
-[02:43:40] [Server thread/INFO]: piesOf314 joined the game
-[02:59:03] [Server thread/INFO]: TevesWang has made the advancement [The Parrots and the Bats]
-[03:00:32] [Server thread/WARN]: piesOf314 moved wrongly!
-[04:12:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@108d976f[id=<null>,name=Lien116,properties={},legacy=false] (/114.36.192.56:12332) lost connection: Disconnected
-[04:12:29] [User Authenticator #3/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[04:12:29] [Server thread/INFO]: Lien116[/114.36.192.56:12335] logged in with entity id 21137 at (-529.0270411631226, 66.0, 274.4065356704867)
-[04:12:29] [Server thread/INFO]: Lien116 joined the game
-[04:25:15] [Server thread/INFO]: TevesWang has made the advancement [Diamonds!]
-[04:28:04] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[04:28:04] [Server thread/INFO]: Lien116 left the game
-[04:28:16] [User Authenticator #4/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[04:28:16] [Server thread/INFO]: Lien116[/114.36.192.56:4929] logged in with entity id 26559 at (-321.30000001192093, -54.0, 322.6084846874083)
-[04:28:16] [Server thread/INFO]: Lien116 joined the game
-[04:53:31] [Server thread/INFO]: Lien116 has made the advancement [Enchanter]
-[04:54:25] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[04:54:25] [Server thread/INFO]: Lien116 left the game
-[05:02:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-597, y=60, z=365} gj{x=-597, y=59, z=366}
-[05:02:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-597, y=60, z=366} gj{x=-597, y=61, z=366}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=56, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=54, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=54, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=53, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=53, z=609} gj{x=-813, y=57, z=609}
-[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=52, z=609} gj{x=-813, y=57, z=609}
-[05:06:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-801, y=51, z=633} gj{x=-801, y=53, z=633}
-[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
-[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
-[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
-[05:06:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=52, z=620} gj{x=-803, y=53, z=620}
-[05:06:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=52, z=620} gj{x=-803, y=53, z=620}
-[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
-[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
-[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
-[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
-[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
-[05:26:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-480, y=-47, z=374} gj{x=-480, y=-46, z=374}
-[05:31:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c4f7343[id=<null>,name=hunto3for,properties={},legacy=false] (/123.194.165.1:56743) lost connection: Disconnected
-[05:31:28] [User Authenticator #5/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[05:31:28] [Server thread/INFO]: hunto3for[/123.194.165.1:56635] logged in with entity id 48348 at (-511.6332626582461, 64.0, 260.38783023913993)
-[05:31:28] [Server thread/INFO]: hunto3for joined the game
-[06:03:11] [User Authenticator #6/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
-[06:03:11] [Server thread/INFO]: piesOf314 lost connection: You logged in from another location
-[06:03:11] [Server thread/INFO]: piesOf314 left the game
-[06:03:11] [Server thread/WARN]: handleDisconnection() called twice
-[06:03:11] [Server thread/INFO]: piesOf314[/160.39.5.167:59920] logged in with entity id 55888 at (-544.4027830292015, 95.0, 278.9111701963762)
-[06:03:11] [Server thread/INFO]: piesOf314 joined the game
-[06:21:26] [Server thread/INFO]: piesOf314 fell from a high place
-[06:21:58] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[06:21:58] [Server thread/INFO]: hunto3for left the game
-[06:36:36] [Server thread/INFO]: TevesWang has made the advancement [Hot Stuff]
-[07:02:51] [User Authenticator #7/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[07:02:51] [Server thread/INFO]: hunto3for[/123.194.165.1:56810] logged in with entity id 74568 at (-531.903100839148, 66.0, 216.71305897493673)
-[07:02:51] [Server thread/INFO]: hunto3for joined the game
-[08:31:33] [User Authenticator #8/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[08:31:33] [Server thread/INFO]: Lien116[/114.36.192.56:9948] logged in with entity id 94631 at (-515.0763040305794, 64.0, 289.3508705001564)
-[08:31:33] [Server thread/INFO]: Lien116 joined the game
-[08:35:08] [Server thread/INFO]: Lien116 fell from a high place
-[09:23:40] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[09:23:40] [Server thread/INFO]: piesOf314 left the game
-[09:28:48] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[09:28:48] [Server thread/INFO]: hunto3for left the game
-[09:39:36] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[09:39:36] [Server thread/INFO]: Lien116 left the game
-[11:47:54] [User Authenticator #9/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[11:47:54] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:11102] logged in with entity id 136255 at (-523.3000000119209, 64.5625, 258.5)
-[11:47:54] [Server thread/INFO]: NatsuhiLight joined the game
-[11:48:43] [Server thread/INFO]: <NatsuhiLight> Do we have iron now?
-[11:50:12] [User Authenticator #10/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[11:50:12] [Server thread/INFO]: Lien116[/114.36.192.56:12214] logged in with entity id 137312 at (-523.9491885341147, 64.0, 262.63348481235926)
-[11:50:12] [Server thread/INFO]: Lien116 joined the game
-[11:50:40] [Server thread/INFO]: <NatsuhiLight> Do we have iron now?
-[11:51:20] [Server thread/INFO]: <NatsuhiLight> Need to build the tour of Iron giant
-[11:54:40] [Server thread/INFO]: <NatsuhiLight> iron
+[13:56:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:56:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:56:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:56:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:56:55] [Worker-Main-2/INFO]: Loaded 7 recipes
+[13:56:56] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[13:56:58] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[13:56:58] [Server thread/INFO]: Loading properties
+[13:56:58] [Server thread/INFO]: Default game type: SURVIVAL
+[13:56:58] [Server thread/INFO]: Generating keypair
+[13:56:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:56:58] [Server thread/INFO]: Using epoll channel type
+[13:56:58] [Server thread/INFO]: Preparing level "world"
+[13:57:00] [User Authenticator #1/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[13:57:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:57:12] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[13:57:13] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[13:57:13] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[13:57:13] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[13:57:14] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[13:57:14] [Worker-Main-2/INFO]: Preparing spawn area: 25%
+[13:57:15] [Worker-Main-2/INFO]: Preparing spawn area: 43%
+[13:57:15] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[13:57:16] [Server thread/INFO]: Time elapsed: 10617 ms
+[13:57:16] [Server thread/INFO]: Done (18.061s)! For help, type "help"
+[13:57:17] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:11453] logged in with entity id 33 at (-540.6794688965532, 72.0, 239.65517333106754)
+[13:57:17] [Server thread/INFO]: NatsuhiLight joined the game
+[13:57:45] [User Authenticator #2/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[13:57:45] [Server thread/INFO]: KibaNihito[/61.62.147.117:7463] logged in with entity id 633 at (-675.8743906967636, 77.5, 334.40536346786837)
+[13:57:45] [Server thread/INFO]: KibaNihito joined the game
+[14:07:48] [User Authenticator #3/INFO]: UUID of player billyee is eee91bd7-3307-4f0a-bf8d-e29e09a74740
+[14:07:48] [Server thread/INFO]: billyee[/49.216.40.233:56790] logged in with entity id 3873 at (-683.162374331032, 64.82209130999937, 611.3811533769575)
+[14:07:48] [Server thread/INFO]: billyee joined the game
+[14:11:58] [Server thread/INFO]: KibaNihito has made the advancement [Take Aim]
+[14:12:09] [Server thread/INFO]: NatsuhiLight has made the advancement [Voluntary Exile]
+[14:12:16] [Server thread/INFO]: NatsuhiLight has made the advancement [Ol' Betsy]
+[14:14:34] [Server thread/INFO]: KibaNihito has made the advancement [Voluntary Exile]
+[14:18:09] [Server thread/INFO]: KibaNihito has completed the challenge [Hero of the Village]
+[14:18:09] [Server thread/INFO]: NatsuhiLight has completed the challenge [Hero of the Village]
+[14:23:56] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[14:23:56] [Server thread/INFO]: TevesWang[/71.227.248.184:60225] logged in with entity id 13208 at (-438.7209012501943, 68.0, 306.3000930946955)
+[14:23:56] [Server thread/INFO]: TevesWang joined the game
+[14:24:09] [User Authenticator #5/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[14:24:09] [Server thread/INFO]: Lien116[/114.36.192.56:1550] logged in with entity id 13365 at (-488.92940807090093, 65.0, 233.33448289473165)
+[14:24:09] [Server thread/INFO]: Lien116 joined the game
+[14:27:11] [User Authenticator #6/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[14:27:11] [Server thread/INFO]: hunto3for[/123.194.165.1:56767] logged in with entity id 14425 at (-525.4315467861358, 64.0, 255.6023132946551)
+[14:27:11] [Server thread/INFO]: hunto3for joined the game
+[14:27:42] [Server thread/INFO]: billyee has made the advancement [We Need to Go Deeper]
+[14:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[14:27:56] [Server thread/INFO]: billyee has made the advancement [Hot Stuff]
+[14:39:35] [Server thread/INFO]: billyee has made the advancement [Sweet Dreams]
+[14:40:16] [Server thread/INFO]: <NatsuhiLight> hunto3for
+[14:40:21] [Server thread/INFO]: <NatsuhiLight> zzz
+[14:40:21] [Server thread/INFO]: <billyee> zzzzzz
+[14:40:31] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[14:40:31] [Server thread/INFO]: hunto3for left the game
+[14:40:39] [User Authenticator #7/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[14:40:39] [Server thread/INFO]: hunto3for[/123.194.165.1:56735] logged in with entity id 22953 at (-728.8912662044521, 62.073264324665075, -141.76288152289797)
+[14:40:39] [Server thread/INFO]: hunto3for joined the game
+[14:51:07] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[14:51:07] [Server thread/INFO]: KibaNihito left the game
+[14:59:34] [Server thread/INFO]: billyee was slain by Enderman

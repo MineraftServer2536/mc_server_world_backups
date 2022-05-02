@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2022-05-02 14:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-05-01 05:16:19 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2022-05-01 05:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-05-02 14:18:09 +0000"
     },
     "done": true
   },
@@ -237,7 +249,8 @@
     "criteria": {
       "apple": "2022-05-01 03:26:53 +0000",
       "bread": "2022-05-01 08:13:01 +0000",
-      "rotten_flesh": "2022-05-01 03:25:34 +0000"
+      "rotten_flesh": "2022-05-01 03:25:34 +0000",
+      "cooked_chicken": "2022-05-02 14:30:18 +0000"
     },
     "done": false
   },
@@ -298,6 +311,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-01 05:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -411,6 +430,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2022-05-02 13:59:25 +0000",
       "minecraft:chicken": "2022-05-01 07:55:36 +0000"
     },
     "done": false
@@ -448,6 +468,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-05-01 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -520,6 +546,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-05-01 03:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -619,8 +651,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-05-02 14:11:58 +0000",
       "minecraft:skeleton": "2022-05-01 03:27:29 +0000",
       "minecraft:spider": "2022-05-01 03:25:41 +0000",
       "minecraft:creeper": "2022-05-01 11:37:57 +0000",
@@ -643,6 +682,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-01 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -676,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2022-05-02 14:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-01 03:18:07 +0000"
@@ -685,6 +736,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-05-01 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-02 14:14:34 +0000"
     },
     "done": true
   },
@@ -1000,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-01 03:18:07 +0000"
@@ -1057,6 +1120,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-05-01 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -1191,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-05-02 14:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-05-01 05:31:10 +0000"
@@ -1242,6 +1317,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-05-01 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-05-02 12:21:43 +0000"
     },
     "done": true
   },
@@ -1314,6 +1395,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2022-05-01 05:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2022-05-02 14:03:07 +0000"
     },
     "done": true
   },
