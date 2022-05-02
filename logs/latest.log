@@ -41,3 +41,46 @@
 [02:43:40] [Server thread/INFO]: piesOf314[/160.39.5.167:61709] logged in with entity id 542 at (-524.6830608601629, 64.0, 262.332927461681)
 [02:43:40] [Server thread/INFO]: piesOf314 joined the game
 [02:59:03] [Server thread/INFO]: TevesWang has made the advancement [The Parrots and the Bats]
+[03:00:32] [Server thread/WARN]: piesOf314 moved wrongly!
+[04:12:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@108d976f[id=<null>,name=Lien116,properties={},legacy=false] (/114.36.192.56:12332) lost connection: Disconnected
+[04:12:29] [User Authenticator #3/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[04:12:29] [Server thread/INFO]: Lien116[/114.36.192.56:12335] logged in with entity id 21137 at (-529.0270411631226, 66.0, 274.4065356704867)
+[04:12:29] [Server thread/INFO]: Lien116 joined the game
+[04:25:15] [Server thread/INFO]: TevesWang has made the advancement [Diamonds!]
+[04:28:04] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[04:28:04] [Server thread/INFO]: Lien116 left the game
+[04:28:16] [User Authenticator #4/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[04:28:16] [Server thread/INFO]: Lien116[/114.36.192.56:4929] logged in with entity id 26559 at (-321.30000001192093, -54.0, 322.6084846874083)
+[04:28:16] [Server thread/INFO]: Lien116 joined the game
+[04:53:31] [Server thread/INFO]: Lien116 has made the advancement [Enchanter]
+[04:54:25] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[04:54:25] [Server thread/INFO]: Lien116 left the game
+[05:02:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-597, y=60, z=365} gj{x=-597, y=59, z=366}
+[05:02:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-597, y=60, z=366} gj{x=-597, y=61, z=366}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=56, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-813, y=55, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=54, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=54, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=53, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=53, z=609} gj{x=-813, y=57, z=609}
+[05:04:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-812, y=52, z=609} gj{x=-813, y=57, z=609}
+[05:06:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-801, y=51, z=633} gj{x=-801, y=53, z=633}
+[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
+[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
+[05:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-802, y=48, z=631} gj{x=-802, y=49, z=631}
+[05:06:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=52, z=620} gj{x=-803, y=53, z=620}
+[05:06:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=52, z=620} gj{x=-803, y=53, z=620}
+[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
+[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
+[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
+[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
+[05:06:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-803, y=47, z=617} gj{x=-802, y=45, z=616}
+[05:26:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-480, y=-47, z=374} gj{x=-480, y=-46, z=374}
+[05:31:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c4f7343[id=<null>,name=hunto3for,properties={},legacy=false] (/123.194.165.1:56743) lost connection: Disconnected
+[05:31:28] [User Authenticator #5/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[05:31:28] [Server thread/INFO]: hunto3for[/123.194.165.1:56635] logged in with entity id 48348 at (-511.6332626582461, 64.0, 260.38783023913993)
+[05:31:28] [Server thread/INFO]: hunto3for joined the game
