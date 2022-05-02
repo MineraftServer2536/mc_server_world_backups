@@ -84,3 +84,16 @@
 [05:31:28] [User Authenticator #5/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
 [05:31:28] [Server thread/INFO]: hunto3for[/123.194.165.1:56635] logged in with entity id 48348 at (-511.6332626582461, 64.0, 260.38783023913993)
 [05:31:28] [Server thread/INFO]: hunto3for joined the game
+[06:03:11] [User Authenticator #6/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[06:03:11] [Server thread/INFO]: piesOf314 lost connection: You logged in from another location
+[06:03:11] [Server thread/INFO]: piesOf314 left the game
+[06:03:11] [Server thread/WARN]: handleDisconnection() called twice
+[06:03:11] [Server thread/INFO]: piesOf314[/160.39.5.167:59920] logged in with entity id 55888 at (-544.4027830292015, 95.0, 278.9111701963762)
+[06:03:11] [Server thread/INFO]: piesOf314 joined the game
+[06:21:26] [Server thread/INFO]: piesOf314 fell from a high place
+[06:21:58] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[06:21:58] [Server thread/INFO]: hunto3for left the game
+[06:36:36] [Server thread/INFO]: TevesWang has made the advancement [Hot Stuff]
+[07:02:51] [User Authenticator #7/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[07:02:51] [Server thread/INFO]: hunto3for[/123.194.165.1:56810] logged in with entity id 74568 at (-531.903100839148, 66.0, 216.71305897493673)
+[07:02:51] [Server thread/INFO]: hunto3for joined the game
