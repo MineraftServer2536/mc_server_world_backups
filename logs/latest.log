@@ -1,40 +1,10 @@
-[19:28:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:28:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:28:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:28:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:28:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:28:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:28:54] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:28:55] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[19:28:57] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[19:28:57] [Server thread/INFO]: Loading properties
-[19:28:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:28:57] [Server thread/INFO]: Generating keypair
-[19:28:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:28:57] [Server thread/INFO]: Using epoll channel type
-[19:28:57] [Server thread/INFO]: Preparing level "world"
-[19:29:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:29:11] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[19:29:11] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[19:29:12] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[19:29:12] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[19:29:13] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[19:29:13] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[19:29:14] [Worker-Main-2/INFO]: Preparing spawn area: 46%
-[19:29:14] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[19:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[19:29:16] [Server thread/INFO]: Time elapsed: 11401 ms
-[19:29:16] [Server thread/INFO]: Done (18.281s)! For help, type "help"
+[21:00:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:00:00] [ServerMain/ERROR]: Failed to start the minecraft server
+ait$a: /home/ubuntu/mc/mc_server/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at ait$a.a(SourceFile:98) ~[server-1.18.2.jar:?]
+	at ait.a(SourceFile:44) ~[server-1.18.2.jar:?]
+	at dkp$a.<init>(SourceFile:316) ~[server-1.18.2.jar:?]
+	at dkp.c(SourceFile:304) ~[server-1.18.2.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:127) ~[server-1.18.2.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
