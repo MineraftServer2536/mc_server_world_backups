@@ -118,3 +118,115 @@
 [06:32:06] [Server thread/INFO]: piesOf314 lost connection: Timed out
 [06:32:06] [Server thread/INFO]: piesOf314 left the game
 [06:39:45] [Server thread/INFO]: TevesWang has made the advancement [Best Friends Forever]
+[10:02:13] [Server thread/INFO]: TevesWang has made the advancement [What a Deal!]
+[10:55:16] [User Authenticator #5/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[10:55:16] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:52661] logged in with entity id 93137 at (-443.26919518763316, 68.0, 294.4557954940247)
+[10:55:16] [Server thread/INFO]: NatsuhiLight joined the game
+[11:05:26] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:05:26] [Server thread/INFO]: TevesWang left the game
+[11:08:16] [User Authenticator #6/INFO]: UUID of player billyee is eee91bd7-3307-4f0a-bf8d-e29e09a74740
+[11:08:16] [Server thread/INFO]: billyee[/101.12.30.209:37924] logged in with entity id 95594 at (-521.5, 64.0, 295.5)
+[11:08:16] [Server thread/INFO]: billyee joined the game
+[11:08:31] [Server thread/INFO]: billyee lost connection: Disconnected
+[11:08:31] [Server thread/INFO]: billyee left the game
+[11:18:29] [User Authenticator #7/INFO]: UUID of player billyee is eee91bd7-3307-4f0a-bf8d-e29e09a74740
+[11:18:29] [Server thread/INFO]: billyee[/101.12.30.209:37872] logged in with entity id 97711 at (-521.5, 64.0, 295.5)
+[11:18:29] [Server thread/INFO]: billyee joined the game
+[11:19:53] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[11:19:53] [Server thread/INFO]: NatsuhiLight left the game
+[11:19:56] [User Authenticator #8/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[11:19:56] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:53523] logged in with entity id 98628 at (-276.5021339213696, 75.0, -21.430550171678124)
+[11:19:56] [Server thread/INFO]: NatsuhiLight joined the game
+[11:22:27] [User Authenticator #9/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[11:22:27] [Server thread/INFO]: KibaNihito[/61.62.147.117:12533] logged in with entity id 99439 at (-675.8275757952705, 77.5, 337.9659300244312)
+[11:22:27] [Server thread/INFO]: KibaNihito joined the game
+[11:25:49] [Server thread/INFO]: billyee has made the advancement [Getting an Upgrade]
+[11:29:55] [Server thread/INFO]: <billyee> z?
+[11:29:58] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[11:29:58] [Server thread/INFO]: KibaNihito left the game
+[11:30:02] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[11:30:02] [Server thread/INFO]: NatsuhiLight left the game
+[11:30:10] [User Authenticator #10/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[11:30:10] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:53741] logged in with entity id 102844 at (-120.59847119355902, 87.0, -4.585191301703388)
+[11:30:10] [Server thread/INFO]: NatsuhiLight joined the game
+[11:30:24] [User Authenticator #11/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[11:30:24] [Server thread/INFO]: KibaNihito[/61.62.147.117:12644] logged in with entity id 103032 at (-694.9264355046743, 51.0, 340.6585632099274)
+[11:30:24] [Server thread/INFO]: KibaNihito joined the game
+[11:32:18] [Server thread/INFO]: NatsuhiLight hit the ground too hard whilst trying to escape Zombified Piglin
+[11:38:10] [Server thread/INFO]: billyee has made the advancement [A Seedy Place]
+[11:44:45] [Server thread/INFO]: KibaNihito has made the advancement [Isn't It Iron Pick]
+[11:49:52] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[11:49:52] [Server thread/INFO]: KibaNihito left the game
+[11:50:00] [User Authenticator #12/INFO]: UUID of player KibaNihito is e1821fee-efe2-4471-8ba5-bce554eb8f97
+[11:50:00] [Server thread/INFO]: KibaNihito[/61.62.147.117:9350] logged in with entity id 111324 at (-600.6455667710798, 38.0, 344.30000001192093)
+[11:50:00] [Server thread/INFO]: KibaNihito joined the game
+[11:50:08] [Server thread/INFO]: KibaNihito drowned
+[11:59:48] [Server thread/INFO]: KibaNihito lost connection: Disconnected
+[11:59:48] [Server thread/INFO]: KibaNihito left the game
+[12:37:45] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! -4.246621233778114,0.0,-9.476253829308916
+[12:37:45] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! -4.385544362449764,0.0,-9.850677559018095
+[12:37:45] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! -4.521811690769482,0.0,-10.22604823569668
+[12:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.2361728345122174,0.0,-10.063399681861938
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.2768762592304483,0.0,-10.459469013664602
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.3170443830231306,0.0,-10.855774891328565
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.3567078161472637,0.0,-11.252295686820048
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.3958941059704557,0.0,-11.649011920007865
+[12:37:50] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 1.4346280444246986,0.0,-12.045906047598692
+[13:01:12] [User Authenticator #13/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[13:01:12] [Server thread/INFO]: piesOf314[/160.39.5.167:60974] logged in with entity id 145418 at (-521.3000000119209, 64.0, 248.69999998807907)
+[13:01:12] [Server thread/INFO]: piesOf314 joined the game
+[13:07:34] [User Authenticator #14/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:07:34] [Server thread/INFO]: TevesWang[/71.227.248.184:64391] logged in with entity id 149818 at (-523.3000000119209, 64.5625, 258.30000001192093)
+[13:07:34] [Server thread/INFO]: TevesWang joined the game
+[13:08:27] [Server thread/INFO]: billyee has made the advancement [What a Deal!]
+[13:08:53] [Server thread/INFO]: <NatsuhiLight> map
+[13:09:17] [Server thread/INFO]: <NatsuhiLight> give me map
+[13:09:47] [Server thread/INFO]: <NatsuhiLight> map
+[13:09:55] [Server thread/INFO]: <NatsuhiLight> tevas
+[13:10:00] [Server thread/INFO]: <TevesWang> ?
+[13:10:08] [Server thread/INFO]: <NatsuhiLight> u have my map
+[13:11:13] [User Authenticator #15/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[13:11:13] [Server thread/INFO]: hunto3for[/123.194.165.1:56585] logged in with entity id 150991 at (-525.1557008078482, 64.0, 263.2503997828689)
+[13:11:13] [Server thread/INFO]: hunto3for joined the game
+[13:13:25] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[13:13:25] [Server thread/INFO]: hunto3for left the game
+[13:14:33] [User Authenticator #16/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[13:14:34] [Server thread/INFO]: hunto3for[/123.194.165.1:56788] logged in with entity id 152196 at (-526.420659524955, 64.0, 261.16552500031895)
+[13:14:34] [Server thread/INFO]: hunto3for joined the game
+[13:18:53] [User Authenticator #17/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[13:18:53] [Server thread/INFO]: Lien116[/114.36.192.56:10484] logged in with entity id 153556 at (-499.46428857446546, 66.0, 261.5409426788321)
+[13:18:53] [Server thread/INFO]: Lien116 joined the game
+[13:20:25] [Server thread/WARN]: Lien116 moved wrongly!
+[13:24:38] [Server thread/INFO]: Lien116 has made the advancement [Fishy Business]
+[13:31:48] [Server thread/INFO]: billyee has made the advancement [Suit Up]
+[13:39:42] [Server thread/INFO]: Lien116 has completed the challenge [Return to Sender]
+[13:43:00] [Server thread/INFO]: billyee has made the advancement [A Terrible Fortress]
+[13:43:22] [Server thread/INFO]: Lien116 has made the advancement [A Terrible Fortress]
+[13:43:57] [Server thread/INFO]: hunto3for lost connection: Disconnected
+[13:43:57] [Server thread/INFO]: hunto3for left the game
+[13:44:09] [Server thread/INFO]: NatsuhiLight was burnt to a crisp whilst fighting Lien116
+[13:44:17] [Server thread/INFO]: billyee has made the advancement [Not Today, Thank You]
+[13:44:28] [Server thread/INFO]: billyee was slain by Wither Skeleton
+[13:47:22] [Server thread/INFO]: NatsuhiLight has made the advancement [Into Fire]
+[13:48:11] [Server thread/INFO]: <piesOf314> -354 81
+[13:48:38] [Server thread/INFO]: <piesOf314> -354 74 77
+[13:50:07] [Server thread/INFO]: piesOf314 has made the advancement [Into Fire]
+[13:50:15] [Server thread/INFO]: Lien116 has made the advancement [Into Fire]
+[13:54:03] [Server thread/INFO]: <piesOf314> -85 73 29
+[13:56:18] [Server thread/INFO]: billyee hit the ground too hard
+[14:05:41] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[14:05:41] [Server thread/INFO]: NatsuhiLight left the game
+[14:06:14] [User Authenticator #18/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[14:06:14] [Server thread/INFO]: NatsuhiLight[/118.169.68.1:59463] logged in with entity id 171594 at (-2955.1145296990053, 62.013866303928864, -66.37057302672605)
+[14:06:14] [Server thread/INFO]: NatsuhiLight joined the game
+[14:09:05] [Server thread/INFO]: NatsuhiLight burned to death
+[14:12:00] [User Authenticator #19/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
+[14:12:00] [Server thread/INFO]: hunto3for[/123.194.165.1:56577] logged in with entity id 173924 at (-523.8380198516403, 64.5625, 258.52471231736155)
+[14:12:00] [Server thread/INFO]: hunto3for joined the game
+[14:20:08] [Server thread/INFO]: billyee lost connection: Disconnected
+[14:20:08] [Server thread/INFO]: billyee left the game
+[14:41:09] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[14:41:09] [Server thread/INFO]: Lien116 left the game
+[14:49:05] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[14:49:05] [Server thread/INFO]: piesOf314 left the game

@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-05-03 13:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-04-26 03:58:14 +0000"
@@ -578,6 +584,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-04-26 04:12:08 +0000",
+      "minecraft:blaze": "2022-05-03 13:49:33 +0000",
       "minecraft:skeleton": "2022-04-27 16:38:34 +0000",
       "minecraft:magma_cube": "2022-05-02 04:18:25 +0000",
       "minecraft:spider": "2022-04-26 16:18:34 +0000",
@@ -760,6 +767,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2022-05-03 06:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-05-03 13:50:07 +0000"
     },
     "done": true
   },
@@ -2464,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-05-03 13:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-04-26 04:13:21 +0000"
@@ -2491,6 +2510,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-04-26 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-05-03 13:50:07 +0000"
     },
     "done": true
   },
